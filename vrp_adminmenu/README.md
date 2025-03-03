@@ -1,0 +1,1 @@
+You need to change in cfg/cfg.lua the permissions.
